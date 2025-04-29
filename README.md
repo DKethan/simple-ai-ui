@@ -23,7 +23,7 @@ There are **four versions** you can try based on what you need.
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/simple-gpt-ui.git
+   git clone https://github.com/DKethan/simple-ai-ui
    cd simple-gpt-ui
    ```
 
